@@ -1,0 +1,9 @@
+C:/Users/system zone/Documents/Course_Registration_System/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/Course_Registration_System.dir
+C:/Users/system zone/Documents/Course_Registration_System/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/edit_cache.dir
+C:/Users/system zone/Documents/Course_Registration_System/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/system zone/Documents/Course_Registration_System/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/list_install_components.dir
+C:/Users/system zone/Documents/Course_Registration_System/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/install.dir
+C:/Users/system zone/Documents/Course_Registration_System/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/install/local.dir
+C:/Users/system zone/Documents/Course_Registration_System/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/install/strip.dir
+C:/Users/system zone/Documents/Course_Registration_System/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/Course_Registration_System_autogen_timestamp_deps.dir
+C:/Users/system zone/Documents/Course_Registration_System/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/Course_Registration_System_autogen.dir
